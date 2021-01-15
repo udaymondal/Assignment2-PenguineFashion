@@ -23,8 +23,21 @@
 .container2 img{
     height: 200px;
     width: 200px;
-
     display: block;
-  margin-left: auto;
-  margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+.section-height{
+    height: 500px;
+}
+
+.diff-card img{
+    height: 100px;
+    width: 100px;
+}
+
+.difficult-section{
+    height: 500px;
+}
+
