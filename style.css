@@ -41,3 +41,8 @@
     height: 500px;
 }
 
+.fix-img{
+    object-fit: contain;
+    object-position: center;
+    background: lightgray
+}
